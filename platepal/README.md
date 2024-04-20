@@ -1,3 +1,3 @@
-# Platpal project
+# Platepal project
 
 A tuitorial on Tailwind CSS
